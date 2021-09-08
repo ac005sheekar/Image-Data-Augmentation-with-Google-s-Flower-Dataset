@@ -26,4 +26,4 @@ Keras:                               pip install keras
 OpenCV:                              pip install opencv-python
 
 Python Image Library (PIL):          pip install pillow
- 
+  
